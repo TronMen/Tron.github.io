@@ -14,14 +14,18 @@ Individual Resume
 ======
 I am a mathematics learner. I currently work at the College of Mathematical Sciences, Zhejiang Normal University. I earned my PhD in Mathematics from Nankai University in July 2022.
 
-当前课程
+Research Interests.
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Broad Area: Algebra
+Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
+
+Teaching Interests.
+======
+Broad Area: Algebras.
+Lie algebras, Abstract algebras, Quantum groups, Mathematical model and its applications.
+
+.
+
 
 论文和预印本
 ------
