@@ -31,8 +31,8 @@ This is my personal mathematics homepage.
 
 Awards received during the working period:
 
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
+- Mathematical Contest in Modeling (MCM/ICM), Meritorious Winner (First Prize). (Apr. 2017)
+- The Young Teachers' Teaching Competition of the College of Mathematical Sciences, Zhejiang Normal University, First Prize. ((Apr. 2017)
 
 Awards received during student years:
 
