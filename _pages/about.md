@@ -29,10 +29,17 @@ This is my personal mathematics homepage.
 :trophy: Honors and Awards
 ------
 
+Awards received during the working period:
+
 - *2021.10* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
 
-:snowboarder: Team Awards
+Awards received during student years:
+
+- *2021.10* Tencent Scholarship (Top 1%)
+- *2021.10* National Scholarship (Top 1%)
+
+:snowboarder: Team Awards (With Students)
 ------
 
 - *2021.10* Tencent Scholarship (Top 1%)
