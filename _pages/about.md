@@ -16,7 +16,6 @@ I am a mathematics learner. I currently work at the College of Mathematical Scie
 
 Research Interests.
 ======
-Broad Area: Algebra
 Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
 
 Teaching Interests.
