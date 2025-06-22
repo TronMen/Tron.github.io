@@ -24,6 +24,19 @@ Teaching Interests.
 ======
 Lie algebras, Abstract algebras, Quantum groups, Mathematical model and its applications.
 
+Invited Talks
+------
+1. 
+
+2. 
+
+3.
+
+4.
+
+5.
+
+
 Honors and Awards
 ------
 1. 
