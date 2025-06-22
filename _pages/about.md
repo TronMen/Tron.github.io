@@ -24,16 +24,8 @@ Teaching Interests.
 ======
 Lie algebras, Abstract algebras, Quantum groups, Mathematical model and its applications.
 
-Honors and Awards
+🎖Honors and Awards
 ------
 
-1. 
-
-2. 
-
-3.
-
-4.
-
-5.
-
+- *2021.10* Tencent Scholarship (Top 1%)
+- *2021.10* National Scholarship (Top 1%)
