@@ -16,14 +16,13 @@ I am a mathematics learner. I currently work at the College of Mathematical Scie
 
 Research Interests.
 ======
-Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
+Broad Area: Algebra.
+
+Subdivision: Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
 
 Teaching Interests.
 ======
 Lie algebras, Abstract algebras, Quantum groups, Mathematical model and its applications.
-
-.
-
 
 论文和预印本
 ------
