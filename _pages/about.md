@@ -31,13 +31,13 @@ This is my personal mathematics homepage.
 
 Awards received during the working period:
 
-- Mathematical Contest in Modeling (MCM/ICM), Meritorious Winner (First Prize). (Apr. 2017)
-- The Young Teachers' Teaching Competition of the College of Mathematical Sciences, Zhejiang Normal University, First Prize. ((Apr. 2017)
+- The Young Teachers' Teaching Competition of the College of Mathematical Sciences, Zhejiang Normal University, First Prize. (2024)
+- Teaching Innovation Competition, Zhejiang Normal University, Second Prize. (2017)
 
 Awards received during student years:
 
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
+- China Undergraduate Mathematical Contest in Modeling (CUMCM), First Prize of Shaanxi Province. (2018)
+- National Post-Graduate Mathematical Contest in Modeling, Third prize. (2010)
 
 :snowboarder: Team Awards (With Students)
 ------
