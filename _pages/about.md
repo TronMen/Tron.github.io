@@ -18,7 +18,7 @@ Research Interests.
 ======
 Broad Area: Algebra.
 
-Subdivision: Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
+Subdivisions: Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Poisson algebras, Quantum groups, Lie bialgebras.
 
 Teaching Interests.
 ======
