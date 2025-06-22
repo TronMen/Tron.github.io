@@ -12,7 +12,7 @@ This is my personal mathematics homepage.
 
 Individual Resume
 ======
-I am a mathematics learner. I currently work at the College of Mathematical Sciences, Zhejiang Normal University. I earned my PhD in Mathematics from Nankai University in July 2022.
+I currently work at the College of Mathematical Sciences, Zhejiang Normal University. I earned my PhD in Mathematics from Nankai University in July 2022.
 
 Research Interests.
 ======
