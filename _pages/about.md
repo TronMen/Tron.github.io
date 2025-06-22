@@ -20,7 +20,6 @@ Lie algebras, N-Lie algebras, Nambu-Poisson algebras, Rota-Baxter algebras, Pois
 
 Teaching Interests.
 ======
-Broad Area: Algebras.
 Lie algebras, Abstract algebras, Quantum groups, Mathematical model and its applications.
 
 .
