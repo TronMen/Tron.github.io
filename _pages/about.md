@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "亢闯闯的数学主页"
+title: "Kang Chuangchuang (亢闯闯)"
 author_profile: true
 redirect_from: 
   - /about/
