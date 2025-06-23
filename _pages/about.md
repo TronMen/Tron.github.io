@@ -42,8 +42,10 @@ Awards received during student years:
 :snowboarder: Team Awards (With Students)
 ------
 
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
+- China Undergraduate Mathematical Contest in Modeling (CUMCM), Second Prize， with Yao Anxi (姚安鑫), Zhu He (祝赫), Yang Lei (杨磊). (2024)
+- China Undergraduate Mathematical Contest in Modeling (CUMCM), Second Prize of Zhejiang Province， with Zheng Guoshuo (郑国烁), Gan Yifan (甘一帆), Zhu Ke (朱珂). (2024)
+- China Undergraduate Mathematical Contest in Modeling (CUMCM), Third Prize of Zhejiang Province， with Lan Xin (蓝欣), Wang Qian (王骞), Li Junhong (厉峻宏). (2024)
+- China Undergraduate Mathematical Contest in Modeling (CUMCM), Third Prize of Zhejiang Province， with Lan Xin (蓝欣), Wang Qian (王骞), Li Junhong (厉峻宏). (2024)
 
 
 
