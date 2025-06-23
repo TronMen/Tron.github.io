@@ -39,7 +39,7 @@ Awards received during student years:
 - China Undergraduate Mathematical Contest in Modeling (CUMCM), First Prize of Shaanxi Province. (2018)
 - National Post-Graduate Mathematical Contest in Modeling, Third prize. (2010)
 
-:snowboarder: Team Awards (With Students)
+:snowboarder: Team Awards for Guiding Students  
 ------
 
 - China Undergraduate Mathematical Contest in Modeling (CUMCM), Second Prize， with Yao Anxi (姚安鑫), Zhu He (祝赫), and Yang Lei (杨磊). (2024)
@@ -49,6 +49,7 @@ Awards received during student years:
 - MathorCup Applied Mathematical Modeling Challenge (MathorCup 杯), Second Prize, with Zhu Zhiwei (朱智炜), Wu Huiyi (吴慧怡), and Yu Rennai (俞忍耐). (2024)
 - Certificate Authority Cup International Mathematical Contest in Modeling (认证杯),  Second Prize, with Wu Xingxiao (吴星晓), Kong Zhanyan (孔展颜), and Yang Jing (杨静). (2024)
 - Certificate Authority Cup International Mathematical Contest in Modeling (认证杯),  Third Prize, with Li Xiang (李想), Shen Mengting (沈梦婷), and Liu Shuhan (刘姝函). (2024)
+- Interdisciplinary Contest In Modeling (美赛), Honorable Mention, Sun Shaoran (孙绍然), Wu Chenyi (吴晨怡), and Zeng Ziyuan (曾梓源). (2024)
 
 
 
