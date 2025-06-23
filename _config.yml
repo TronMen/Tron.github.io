@@ -78,12 +78,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  preparation:
+    title: 'In preparations'
+  arXived:
+    title: 'Submitted / ArXived'
+  manuscripts:
+    title: 'Journal Articles'  
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  submitted:
-    title: 'Submitted / ArXived.'
+
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
