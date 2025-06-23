@@ -13,7 +13,7 @@ This is my personal mathematics homepage.
 :bamboo: Individual Resume
 ------
 
-- I currently work at the College of Mathematical Sciences, Zhejiang Normal University. I earned my PhD in Mathematics from Nankai University in July 2022.
+- I currently work at the College of Mathematical Sciences, Zhejiang Normal University. I received my PhD in Mathematics from Nankai University in July 2022 and have supervised four master's students.
 
 :school: Research Interests.
 ------
